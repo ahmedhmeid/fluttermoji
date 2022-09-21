@@ -129,8 +129,8 @@ const List<String> HairColor = [
   'Platinum',
   'Red',
   'SilverGray',
-  'Orange'
-  'Yellow',
+  //'Orange'
+  //'Yellow',
   'Green',
   'Blue',
   'Purple',
