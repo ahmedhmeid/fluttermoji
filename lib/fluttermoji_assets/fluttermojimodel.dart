@@ -129,6 +129,13 @@ const List<String> HairColor = [
   'Platinum',
   'Red',
   'SilverGray',
+  'Orange'
+  'Yellow',
+  'Green',
+  'Blue',
+  'Purple',
+  'Pink',
+  'White'
 ];
 
 //This is the property I skipped on purpose
