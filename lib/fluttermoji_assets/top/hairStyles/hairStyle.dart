@@ -11,6 +11,13 @@ class HairStyle {
     'Platinum': "#ECDCBF",
     'Red': "#C93305",
     'SilverGray': '#E8E1E1',
+    'Orange': '#D15A04',
+    'Yellow': '#E3D405',
+    'Green': '#1BA614',
+    'Blue': '#0D19A1',
+    'Purple': '#5709BD',
+    'Pink': '#B308BF',
+    'White': '#FFFFFF'
   };
 
   static String? generateHairStyle(
