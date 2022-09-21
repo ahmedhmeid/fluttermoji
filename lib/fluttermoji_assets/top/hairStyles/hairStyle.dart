@@ -14,7 +14,7 @@ class HairStyle {
   //  'Orange': '#D15A04',
    // 'Yellow': '#E3D405',
 
-   'Orange' : '#0D19A1',
+ //  'Orange' : '#0D19A1',
    'Yellow' : '#0D19A1',
     'Green': '#1BA614',
     'Blue': '#0D19A1',
